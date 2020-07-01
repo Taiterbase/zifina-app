@@ -85,6 +85,9 @@ $('document').ready(function () {
                         $("#alert").html('<div class="alert alert-danger">Please make sure you check the security CAPTCHA box.</div>');
                     });
                 }
+            },
+            error: function (data) {
+                console.log(data);
             }
         });
         return false;

@@ -5,9 +5,9 @@
 $website_title = "Zifina TBC 2.4.3";
 
 /* DB */
-$dbUser = "zifibot";
-$dbPassword = "Cnnmn5670!" ;
-$dbHost = "10.0.1.5";
+$dbUser = "taite";
+$dbPassword = "Cnnmn279!";
+$dbHost = "data.zifina.io";
 $dbName = "tbcrealmd";
 $port = "3306";
 $dbChar = "tbccharacters";
